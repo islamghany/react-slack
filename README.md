@@ -1,7 +1,7 @@
 ## react-slack
 react js chat app with redux and firebase.  
   
-[Duck Duck Go](https://react-slack-af215.firebaseapp.com/).
+[Go to the Website](https://react-slack-af215.firebaseapp.com/).
 
 # to open 
 1.go inside the folder and run `npm i`.  
